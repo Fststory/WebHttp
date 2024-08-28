@@ -55,6 +55,7 @@ public class JsonParser : MonoBehaviour
         //print(jsonUser2);
         //text_result.text = jsonUser1 + "\n" + jsonUser2;
 
+        //// 로컬 파일로 저장한다.
         //SaveJsonData(jsonUser1, Application.dataPath, "박원석.json");
         //SaveJsonData(jsonUser2, Application.dataPath, "반장.json");
         #endregion
